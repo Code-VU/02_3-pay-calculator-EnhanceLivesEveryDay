@@ -14,15 +14,15 @@
 }
 </style>
 
-<h1 id="identifier" class="heading1">
-    # Bonus Exercise 1
+<h1 class="heading1">
+    Bonus Exercise 1
 </h1>
 
 Write a Python program which accepts the radius of a circle from the user and compute the area.
 
-<h1 id="identifier" class="heading2">
-    ## Desired Sample Output:
-</h1>
+<h2 class="heading2">
+    Desired Sample Output:
+</h2>
 
     r = 1.1
     Area = 3.8013271108436504
@@ -31,22 +31,22 @@ Write a Python program which accepts the radius of a circle from the user and co
 
 ---
 
-<h1 id="identifier" class="heading1 space">
-    # Bonus Exercise 2
+<h1 class="heading1 space">
+    Bonus Exercise 2
 </h1>
 Write a Python program which accepts the user's first and last name and print them in reverse order with a space between them.
 
 ---
 
-<h1 id="identifier" class="heading1 space">
-    # Bonus Exercise 3
+<h1 class="heading1 space">
+    Bonus Exercise 3
 </h1>
 
 Write a Python program that accepts an integer (n) and computes the value of n+nn+nnn
 
-<h1 id="identifier" class="heading2">
-    ## Desired Sample Output:
-</h1>
+<h2 class="heading2">
+    Desired Sample Output:
+</h2>
 
 
     Sample value of n is 5
