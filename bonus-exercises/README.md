@@ -70,7 +70,7 @@ Write a Python program that accepts an integer (n) and computes the value of _`n
 
 - **[Quizlet - Variables, Statements, & Expressions Flashcards]**(https://quizlet.com/553945914/py4e-chapter-2-variables-statements-expressions-flash-cards/?x=1qqt)
 
-- Slides: Pythonlearn-o2-Expressions.pptx
+- Slides: Pythonlearn-o2-Expressions.pptx        https://github.com/Code-VU/02_3-pay-calculator-EnhanceLivesEveryDay/blob/main/bonus-exercises/Pythonlearn-02-Expressions.pptx
 
 <h3 class="heading3">
     Video(s):
