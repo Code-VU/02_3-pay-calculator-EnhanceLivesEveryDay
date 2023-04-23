@@ -14,7 +14,27 @@
 }
 </style>
 
-<h1 class="heading1">
+<h1 class="heading1 space">
+    Chapter 2: Supporting Docs & Info
+</h1>
+
+- **[Chapter 2: Variables](https://www.py4e.com/html3/02-variables)**
+
+- **[Quizlet - Variables, Statements, & Expressions Flashcards](https://quizlet.com/553945914/py4e-chapter-2-variables-statements-expressions-flash-cards/?x=1qqt)**
+
+- **[Slides: Pythonlearn-o2-Expressions.pptx](https://github.com/Code-VU/02_3-pay-calculator-EnhanceLivesEveryDay/blob/main/bonus-exercises/Pythonlearn-02-Expressions.pptx)**
+
+<h3 class="heading3">
+    Video(s):
+</h3>
+
+- **[Variables, Expressions and Statements - Part 1](https://www.youtube.com/watch?v=7KHdV6FSpo8)**
+
+- **[Variables, Expressions and Statements - Part 2](https://www.youtube.com/watch?v=kefrGMAglGs)**
+
+
+
+<h1 class="heading1 space">
     Bonus Exercise 1
 </h1>
 
@@ -30,7 +50,7 @@ Write a Python program which accepts the radius of a circle from the user and co
 
    _* Hint: Use the following formula to calculate circle area: A = πr²._
 
-**[Click me to see the sample solution]**(https://www.w3resource.com/python-exercises/python-basic-exercise-4.php)
+**[Click me to see the sample solution](https://www.w3resource.com/python-exercises/python-basic-exercise-4.php)**
 
 
 ---
@@ -40,7 +60,7 @@ Write a Python program which accepts the radius of a circle from the user and co
 </h1>
 Write a Python program which accepts the user's first and last name and print them in reverse order with a space between them.
 
-**[Click me to see the sample solution]**(https://www.w3resource.com/python-exercises/python-basic-exercise-5.php)
+**[Click me to see the sample solution](https://www.w3resource.com/python-exercises/python-basic-exercise-5.php)**
 
 ---
 
@@ -58,25 +78,4 @@ Write a Python program that accepts an integer (n) and computes the value of _`n
 > 
 > Expected Result: 615
 
-**[Click me to see the sample solution]**(https://www.w3resource.com/python-exercises/python-basic-exercise-10.php)
-
----
-
-<h1 class="heading1 space">
-    Supporting Docs & Info
-</h1>
-
-- **[Chapter 2: Variables]**(https://www.py4e.com/html3/02-variables)
-
-- **[Quizlet - Variables, Statements, & Expressions Flashcards]**(https://quizlet.com/553945914/py4e-chapter-2-variables-statements-expressions-flash-cards/?x=1qqt)
-
-- Slides: Pythonlearn-o2-Expressions.pptx
-
-<h3 class="heading3">
-    Video(s):
-</h3>
-
-**[Variables, Expressions and Statements - Part 1]**(https://www.youtube.com/watch?v=7KHdV6FSpo8)
-
-**[Variables, Expressions and Statements - Part 2]**(https://www.youtube.com/watch?v=kefrGMAglGs)
-
+**[Click me to see the sample solution](https://www.w3resource.com/python-exercises/python-basic-exercise-10.php)**
