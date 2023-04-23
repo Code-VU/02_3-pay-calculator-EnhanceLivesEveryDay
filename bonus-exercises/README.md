@@ -19,9 +19,7 @@
 </h1>
 
 - **[Chapter 2: Variables](https://www.py4e.com/html3/02-variables)**
-
 - **[Quizlet - Variables, Statements, & Expressions Flashcards](https://quizlet.com/553945914/py4e-chapter-2-variables-statements-expressions-flash-cards/?x=1qqt)**
-
 - **[Slides: Pythonlearn-o2-Expressions.pptx](https://github.com/Code-VU/02_3-pay-calculator-EnhanceLivesEveryDay/blob/main/bonus-exercises/Pythonlearn-02-Expressions.pptx)**
 
 <h3 class="heading3">
@@ -29,7 +27,6 @@
 </h3>
 
 - **[Variables, Expressions and Statements - Part 1](https://www.youtube.com/watch?v=7KHdV6FSpo8)**
-
 - **[Variables, Expressions and Statements - Part 2](https://www.youtube.com/watch?v=kefrGMAglGs)**
 
 
@@ -52,7 +49,6 @@ Write a Python program which accepts the radius of a circle from the user and co
 
 **[Click me to see the sample solution](https://www.w3resource.com/python-exercises/python-basic-exercise-4.php)**
 
-
 ---
 
 <h1 class="heading1 space">
@@ -72,7 +68,6 @@ Write a Python program that accepts an integer (n) and computes the value of _`n
 <h3 class="heading3">
     Desired Sample Output:
 </h3>
-
 
 > Sample value of _`n`_ is 5
 > 
