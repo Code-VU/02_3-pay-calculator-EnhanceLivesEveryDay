@@ -4,7 +4,7 @@
     font-weight:500;
     font-size: 30px;
 }
-.heading2 {
+.heading3 {
     color: #7878ff;
     font-weight:400;
     font-size: 20px;
@@ -20,9 +20,9 @@
 
 Write a Python program which accepts the radius of a circle from the user and compute the area.
 
-<h2 class="heading2">
+<h3 class="heading3">
     Desired Sample Output:
-</h2>
+</h3>
 
     r = 1.1
     Area = 3.8013271108436504
@@ -44,9 +44,9 @@ Write a Python program which accepts the user's first and last name and print th
 
 Write a Python program that accepts an integer (n) and computes the value of n+nn+nnn
 
-<h2 class="heading2">
+<h3 class="heading3">
     Desired Sample Output:
-</h2>
+</h3>
 
 
     Sample value of n is 5
