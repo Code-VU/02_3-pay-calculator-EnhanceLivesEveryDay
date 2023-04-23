@@ -53,3 +53,16 @@ Write a Python program that accepts an integer (n) and computes the value of _`n
 > 
 > Expected Result: 615
 
+---
+
+<h1 class="heading1 space">
+    Supporting Docs & Info
+</h1>
+
+- Doc
+
+<h3 class="heading3">
+    Video(s):
+</h3>
+
+[link](http://www.trello.com)
