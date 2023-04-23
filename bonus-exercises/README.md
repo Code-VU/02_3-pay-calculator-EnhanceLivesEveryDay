@@ -72,3 +72,5 @@ Write a Python program that accepts an integer (n) and computes the value of _`n
 > Sample value of _`n`_ is 5
 > 
 > Expected Result: 615
+
+**[Click me to see the sample solution](https://www.w3resource.com/python-exercises/python-basic-exercise-10.php)**
