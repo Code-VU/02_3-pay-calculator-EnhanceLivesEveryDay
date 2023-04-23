@@ -24,8 +24,9 @@ Write a Python program which accepts the radius of a circle from the user and co
     Desired Sample Output:
 </h3>
 
-    r = 1.1
-    Area = 3.8013271108436504
+> r = 1.1
+>
+> Area = 3.8013271108436504
 
    _* Hint: Use the following formula to calculate circle area: A = πr²._
 
@@ -42,13 +43,13 @@ Write a Python program which accepts the user's first and last name and print th
     Bonus Exercise 3
 </h1>
 
-Write a Python program that accepts an integer (n) and computes the value of n+nn+nnn
-
+Write a Python program that accepts an integer (n) and computes the value of _`n+nn+nnn`_
 <h3 class="heading3">
     Desired Sample Output:
 </h3>
 
 
-    Sample value of n is 5
-    Expected Result: 615
+> Sample value of _`n`_ is 5
+> 
+> Expected Result: 615
 
